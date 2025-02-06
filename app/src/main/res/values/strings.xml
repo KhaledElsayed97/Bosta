@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bosta</string>
+    <string name="district">%s - %s1</string>
+</resources>
